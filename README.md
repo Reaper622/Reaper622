@@ -6,6 +6,11 @@ My name is MacTavish Lee aka Reaper622, chinese name is Bowen Li.
 
 I'm a Web FrontEnd Developer.
 
+<img
+  alt="Top Langs"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112"
+/>
+
 <!--
 **Reaper622/Reaper622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
