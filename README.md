@@ -4,7 +4,8 @@
 
 My name is MacTavish Lee aka Reaper622, chinese name is Bowen Li.
 
-I'm a Web FrontEnd Developer.
+I'm a Web FrontEnd Developer working in ByteDance AML Team.
+I'm currently learning machine learning / TensorFlow.js.
 
 <img
   alt="Top Langs"
