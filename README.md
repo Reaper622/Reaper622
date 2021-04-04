@@ -5,6 +5,7 @@ My name is MacTavish Lee aka Reaper622, chinese name is Bowen Li.
 - I'm a Web FrontEnd Developer working in ByteDance AML Team.
 - I'm currently learning machine learning / TensorFlow.js.
 - A Game | Photograph | Code lover.
+- 📫 How to reach me: reaperlee622@gmail.com
 
 <img
   alt="Top Langs"
@@ -13,6 +14,10 @@ My name is MacTavish Lee aka Reaper622, chinese name is Bowen Li.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=reaper622&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
+<p align="right">
+  <p align="center" style="font-size: 30px">Visitor count<br>
+  <img width="400px" height="60px" src="https://profile-counter.glitch.me/Reaper622/count.svg" />
+</p>
 <!--
 **Reaper622/Reaper622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
