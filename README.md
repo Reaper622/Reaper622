@@ -3,7 +3,7 @@
 My name is MacTavish Lee aka Reaper622, chinese name is Bowen Li.
 
 - I'm a Web FrontEnd Developer working in ByteDance Central Platform Arch-FE Team.
-- I'm currently learning machine learning / TensorFlow.js.
+- I'm currently learning machine learning / TensorFlow.js / Rust.
 - A Game | Photograph | Code lover.
 - 📫 How to reach me: libowen.eric@bytedance.com | reaperlee622@gmail.com
 
